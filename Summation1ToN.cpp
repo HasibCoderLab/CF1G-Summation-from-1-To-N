@@ -10,14 +10,10 @@
 using namespace std;
 int main()
 {
-   int N ;
-   cin>>N;
-   int sum = 0;
-   for (int i = 0; i <=N; i++)
-   {
-    sum +=i;
- 
-   }   cout<< sum;
-   
+    long long N;
+    cin >> N;
+    long long sum = N * (N + 1) / 2;
+    cout << sum;
+
     return 0;
 }
