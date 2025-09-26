@@ -4,7 +4,7 @@
 //                Problem  : Summation-from-1-To-N
 //                Language : C++
 //                Topic    : [Summation-from-1-To-N]
-//                File     : Summation1ToN.cpp
+//                File     : Summation-1-To-N.cpp
 // ================================================
 #include <iostream>
 using namespace std;
